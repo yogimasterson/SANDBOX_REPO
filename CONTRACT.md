@@ -1,6 +1,6 @@
 # Learning Contract for Goal: Core Algorithms
 
-[Description](#description) | [Context](#context) | [Specifications](#specifications) | [Quality Rubric](#quality-rubric)
+[Description](#description) | [Classic](#classic) | [Numeric](#numeric) | [Set Operations](#set-operations) | [Sorting and Searching](#sorting-and-searching) | [Graphing and Geometry](#graphing-and-geometry) | [Context](#context) | [Specifications](#specifications) | [Quality Rubric](#quality-rubric)
 
 ## Description
 
@@ -10,7 +10,7 @@ Fork the this repository and use the fork as your project artifact.
 
 Use the list below as a reference for each algorithm.
 
-### Classic
+## Classic
 
 #### makeChange
 
@@ -59,7 +59,7 @@ isPalindrome('A man, a plan, a canal: Panama')
 // => true
 ```
 
-### Numeric
+## Numeric
 
 #### factorial
 
@@ -96,7 +96,7 @@ collatzConjecture(7)
 ```
 
 
-### Set Operations
+## Set Operations
 
 #### setUnion
 
@@ -143,7 +143,7 @@ setSymmetricDifference(a, b)
 ```
 
 
-### Sorting and Searching
+## Sorting and Searching
 
 #### mergeSort
 
@@ -174,7 +174,7 @@ binarySearch(numbers, 45)
 ```
 
 
-### Graphing and Geometry
+## Graphing and Geometry
 
 #### closestPair
 
