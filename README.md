@@ -2,7 +2,7 @@
 
 Tests and implementations for algorithms commonly used in job interviews.
 
-Base repository for the [Core Algorithms](https://github.com/GuildCrafts/web-development-js/issues/123) goal. See specs and quality rubric in the [CONTRACT.md](./CONTRACT.md) file.
+Base repository for the [Core Algorithms](https://github.com/GuildCrafts/web-development-js/issues/123) goal.
 
 ## Installation and Setup
 
