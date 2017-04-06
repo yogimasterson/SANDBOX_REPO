@@ -137,13 +137,14 @@ setSymmetricDifference(a, b)
 
 ## Sorting and Searching
 
-#### mergeSort
+#### binarySearch
 
-Sort an array of numbers using the **merge sort** algorithm.
+Search for a number within an array using the **binary search** algorithm.
 
 ```javascript
-mergeSort([10, 2, 7, 5, 8, 3, 6, 1, 4, 9])
-// => [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+const numbers = [5, 10, 15, 20, 25, 30, 35, 40, 45, 50]
+binarySearch(numbers, 45)
+// => 8
 ```
 
 #### bubbleSort
@@ -155,14 +156,13 @@ bubbleSort([10, 2, 7, 5, 8, 3, 6, 1, 4, 9])
 // => [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 ```
 
-#### binarySearch
+#### mergeSort
 
-Search for a number within an array using the **binary search** algorithm.
+Sort an array of numbers using the **merge sort** algorithm.
 
 ```javascript
-const numbers = [5, 10, 15, 20, 25, 30, 35, 40, 45, 50]
-binarySearch(numbers, 45)
-// => 8
+mergeSort([10, 2, 7, 5, 8, 3, 6, 1, 4, 9])
+// => [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 ```
 
 
