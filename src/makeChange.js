@@ -1,4 +1,3 @@
-
 export default function makeChange({price, amountGiven}) {
 
   let changeAmount = amountGiven - price
